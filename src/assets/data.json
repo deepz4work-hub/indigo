@@ -1,0 +1,31 @@
+{
+  "flights": [
+    {
+      "from": "DEL",
+      "to": "COK",
+      "flightNumber": "6E-6778",
+      "departureTime": "05:00",
+      "arrivalTime": "08:10",
+      "duration": "3h 10m",
+      "price": 8999
+    },
+    {
+      "from": "DEL",
+      "to": "COK",
+      "flightNumber": "6E-5273",
+      "departureTime": "18:25",
+      "arrivalTime": "21:40",
+      "duration": "3h 15m",
+      "price": 9576
+    },
+    {
+      "from": "DEL",
+      "to": "COK",
+      "flightNumber": "6E-2579",
+      "departureTime": "16:15",
+      "arrivalTime": "21:30",
+      "duration": "5h 15m",
+      "price": 8113
+    }
+  ]
+}
