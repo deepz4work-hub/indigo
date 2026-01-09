@@ -44,7 +44,7 @@ const AddPassenger = () => {
         className="cursor-pointer"
         onClick={() => setOpen((prev) => !prev)}
       >
-        <p className="text-xs text-gray-500">TRAVELLERS</p>
+        <p className="text-xs text-gray-500">Add Passengers</p>
         <p className="font-semibold">{summaryText}</p>
       </div>
 
